@@ -45,5 +45,5 @@ export default function Home() {
     );
 }
 
-const img1 = '/assets/Remote1.png';
-const img2 = '/assets/Remote2.png';
+const img1 = 'https://images.pexels.com/photos/27976588/pexels-photo-27976588.jpeg';
+const img2 = 'https://images.pexels.com/photos/36991440/pexels-photo-36991440.jpeg';
